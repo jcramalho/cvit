@@ -1,0 +1,34 @@
+// PUG template for JCR's tese create form
+html
+  head
+    title= "Teses (júris): nova"
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    link(rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css")
+  body
+    div(class="w3-container")
+      div(class="w3-container w3-black w3-center")
+        h1= "Teses (júris) de José Carlos Ramalho: nova"
+
+      form(class="w3-container" action="")
+        div(class="w3-section")
+          label
+            b= "Nome do aluno:"
+          input(class="w3-input w3-border w3-margin-bottom" size="40" type="text" placeholder="Introduza o nome do aluno" name="nome" required)
+          label
+            b= "Título da tese:"
+          input(class="w3-input w3-border" type="text" placeholder="Introduza o título da tese" name="titulo")
+          label
+            b= "Data da defesa:"
+          input(class="w3-input w3-border" type="text" placeholder="Introduza a data da defesa" name="data")
+          label
+            b= "Função do JCR no júri:"
+          div(class="w3-border")
+            input(class="w3-radio" type="radio" name="funcao" value="Vogal")
+            label= "Vogal"
+            input(class="w3-radio" type="radio" name="funcao" value="Presidente")
+            label= "Presidente"
+            
+          input(class="w3-submit w3-margin-top w3-round-xxlarge w3-light-grey w3-hover-teal" type="submit" value="Adicionar")
+
+      div(class="w3-container w3-black")
+        p= "By jcr 2017"

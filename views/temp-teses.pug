@@ -1,0 +1,21 @@
+extends layout.pug
+
+append content
+  div(class="w3-container")
+    div(class="w3-container w3-black w3-center")
+      h1= "Teses (júris) de José Carlos Ramalho"
+ 
+      table(class="w3-table-all" id="methods")
+        tr
+          th= "Aluno"
+          th= "Título"
+          th= "Data"
+          th= "Função"
+          each t in lista
+            tr(id="t._id")
+              td= t.aluno_nome
+              td= t.tese_titulo
+              td= t.tese_data
+              td= t.docente_func
+
+      

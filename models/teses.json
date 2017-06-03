@@ -1,0 +1,141 @@
+[
+    {
+        "aluno_nome": "Paula da Conceição Fernandes Novais Cunha Guimarães",
+        "tese_titulo": "Relatório de atividade profissional",
+        "tese_data": "2014-12-19",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Nuno Tiago Mourão de Amorim",
+        "tese_titulo": "Georreferenciação por Imagens",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Tiago Luís Oliveira Leite",
+        "tese_titulo": "Laboratório Virtual de Holografia gerada por computador na Web",
+        "tese_data": "2015-11-30",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Nuno Miguel Lima Cardoso",
+        "tese_titulo": "Integração do OptiX no Maya: Síntese Interativa de Imagens de Alta Qualidade",
+        "tese_data": "2015-11-30",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Rogério António da Costa Pontes",
+        "tese_titulo": "Benchmarking de uma abordagem em Álgebra linear a sistemas OLAP",
+        "tese_data": "2015-12-14",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "André Dias Costa",
+        "tese_titulo": "Gestão de Bases de Dados Relacionais em Cloud Computing",
+        "tese_data": "2015-12-14",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Nuno Miguel Gomes",
+        "tese_titulo": "Modelação de Padrões ETL em YAWL",
+        "tese_data": "2015-12-17",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Celso Filipe Nogueira Coutinho",
+        "tese_titulo": "Priorizar regras de associação através de algoritmos genéticos com vista à previsão eficaz de surtos de Dengue",
+        "tese_data": "2016-01-08",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Cristiana Esteves Araújo",
+        "tese_titulo": "Construção do Museu da Pessoa com base numa Ontologia que combina CIDOC-CRM / FOAF / DBpedia",
+        "tese_data": "2016-12-02",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Daniel José Ferreira Novais",
+        "tese_titulo": "Determinação do Perfil do Programador usando análise estática de código",
+        "tese_data": "2016-12-02",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Marcos André Oliveira Ramos",
+        "tese_titulo": "Question and Answer Systems - A Closed-Domain Question and Answer System for the Python Language Domain",
+        "tese_data": "2017-05-19",
+        "docente_func": "Presidente",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Nuno Antunes Marques",
+        "tese_titulo": "Gestão de depósitos em arquivos",
+        "tese_data": "2012-12-07",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Luís Tiago Gonçalves Pereira",
+        "tese_titulo": "FITTEST logging and log-analysis' infrastructure for PHP",
+        "tese_data": "2014-04-11",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Nuno Ricardo Arieira Morais",
+        "tese_titulo": "Investigação/estudo tecnológico para introdução de HTML5 e estruturação do processo de migração",
+        "tese_data": "2014-12-15",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Miguel da Silva Coutada",
+        "tese_titulo": "Ferramenta de Preservação de Bases de Dados",
+        "tese_data": "2014-12-15",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Fábio Alves Rocha",
+        "tese_titulo": "Preservação de Bases de Dados com SIARD",
+        "tese_data": "2014-12-19",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Pedro José Miranda Raposo Alves",
+        "tese_titulo": "Plataforma Móvel de Identificação e Pagamento",
+        "tese_data": "2014-12-19",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Paulo Agostinho Fernandes Lima",
+        "tese_titulo": "Sistema de baixo custo para deteção de fraude em quiosques de auto-empréstimo para bibliotecas",
+        "tese_data": "2014-12-19",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "Bruno Alexandre Alves Ferreira",
+        "tese_titulo": "Database Preservation Toolkit - Ferramenta para conversão e normalização de bases de dados relacionais",
+        "tese_data": "2016-11-21",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    },
+    {
+        "aluno_nome": "André Diogo Ribeiro Assunção Pereira",
+        "tese_titulo": "RODA-in - ferramenta genérica para a criação em massa de pacotes de informação de submissão",
+        "tese_data": "2016-11-21",
+        "docente_func": "Vogal",
+        "docente_nome": "José Carlos Leite Ramalho"
+    }
+]
